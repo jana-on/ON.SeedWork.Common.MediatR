@@ -1,3 +1,5 @@
+using System;
+
 namespace ON.SeedWork.Common.MediatR.Exceptions;
 
 public class HandlerNotRegisteredException : Exception
