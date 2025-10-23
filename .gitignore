@@ -1,0 +1,55 @@
+# Build artifacts
+bin/
+obj/
+out/
+publish/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# IDE folders
+.vscode/
+.idea/
+*.code-workspace
+
+# JetBrains Rider
+*.DotSettings
+*.DotSettings.user
+
+# Visual Studio for Mac
+*.pidb
+*.userprefs
+
+# ASP.NET secrets (if used)
+secrets.json
+appsettings.Development.json
+
+# Logs and temp files
+*.log
+*.tlog
+*.tmp
+*.bak
+
+# Test results
+TestResults/
+*.trx
+
+# NuGet packages
+*.nupkg
+*.snupkg
+.nuget/
+
+# Coverage reports
+coverage/
+*.coverage
+*.coveragexml
+
+# Entity Framework (optional)
+Migrations/
+
+# OS-specific
+*.DS_Store
+Thumbs.db
